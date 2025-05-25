@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>signinwithgoogle</id>
+    <version>1.0.0</version>
+    <authors>signinwithgoogle</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-android34.0">
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="8.0.83" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls.Compatibility" version="8.0.83" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.GooglePlayServices.Auth" version="120.6.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\maui\signinwithgoogle\signinwithgoogle\bin\Release\net8.0-android\signinwithgoogle.runtimeconfig.json" target="lib\net8.0-android34.0\signinwithgoogle.runtimeconfig.json" />
+    <file src="D:\maui\signinwithgoogle\signinwithgoogle\bin\Release\net8.0-android\signinwithgoogle.dll" target="lib\net8.0-android34.0\signinwithgoogle.dll" />
+    <file src="D:\maui\signinwithgoogle\signinwithgoogle\bin\Release\net8.0-android\signinwithgoogle.xml" target="lib\net8.0-android34.0\signinwithgoogle.xml" />
+  </files>
+</package>

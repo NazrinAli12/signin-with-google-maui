@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\maui\\signinwithgoogle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|d:\\maui\\signinwithgoogle\\signinwithgoogle\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|solutionrelative:signinwithgoogle\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|d:\\maui\\signinwithgoogle\\signinwithgoogle\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|solutionrelative:signinwithgoogle\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|d:\\maui\\signinwithgoogle\\signinwithgoogle\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|solutionrelative:signinwithgoogle\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|d:\\maui\\signinwithgoogle\\signinwithgoogle\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|solutionrelative:signinwithgoogle\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|d:\\maui\\signinwithgoogle\\signinwithgoogle\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|solutionrelative:signinwithgoogle\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|d:\\maui\\signinwithgoogle\\signinwithgoogle\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|solutionrelative:signinwithgoogle\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|d:\\maui\\signinwithgoogle\\signinwithgoogle\\platforms\\android\\googleauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|solutionrelative:signinwithgoogle\\platforms\\android\\googleauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|d:\\maui\\signinwithgoogle\\signinwithgoogle\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|solutionrelative:signinwithgoogle\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|d:\\maui\\signinwithgoogle\\signinwithgoogle\\googleauth\\googleusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|solutionrelative:signinwithgoogle\\googleauth\\googleusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|d:\\maui\\signinwithgoogle\\signinwithgoogle\\googleauth\\igoogleauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3DE90A-3160-4BBC-B505-9E536A0B33B3}|signinwithgoogle\\signinwithgoogle.csproj|solutionrelative:signinwithgoogle\\googleauth\\igoogleauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 129,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "signinwithgoogle\\MauiProgram.cs",
+              "ToolTip": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\MauiProgram.cs",
+              "RelativeToolTip": "signinwithgoogle\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:47:07.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "signinwithgoogle\\MainPage.xaml.cs",
+              "ToolTip": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\MainPage.xaml.cs",
+              "RelativeToolTip": "signinwithgoogle\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:47:05.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "signinwithgoogle\\AppShell.xaml.cs",
+              "ToolTip": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\AppShell.xaml.cs",
+              "RelativeToolTip": "signinwithgoogle\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:47:00.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\App.xaml.cs",
+              "RelativeDocumentMoniker": "signinwithgoogle\\App.xaml.cs",
+              "ToolTip": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\App.xaml.cs",
+              "RelativeToolTip": "signinwithgoogle\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:46:56.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "signinwithgoogle\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "signinwithgoogle\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:46:49.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "signinwithgoogle\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "signinwithgoogle\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:46:47.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoogleAuthService.cs",
+              "DocumentMoniker": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\Platforms\\Android\\GoogleAuthService.cs",
+              "RelativeDocumentMoniker": "signinwithgoogle\\Platforms\\Android\\GoogleAuthService.cs",
+              "ToolTip": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\Platforms\\Android\\GoogleAuthService.cs",
+              "RelativeToolTip": "signinwithgoogle\\Platforms\\Android\\GoogleAuthService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:46:42.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "signinwithgoogle\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "signinwithgoogle\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-10T09:46:37.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GoogleUserModel.cs",
+              "DocumentMoniker": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\GoogleAuth\\GoogleUserModel.cs",
+              "RelativeDocumentMoniker": "signinwithgoogle\\GoogleAuth\\GoogleUserModel.cs",
+              "ToolTip": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\GoogleAuth\\GoogleUserModel.cs",
+              "RelativeToolTip": "signinwithgoogle\\GoogleAuth\\GoogleUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:46:35.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGoogleAuthService.cs",
+              "DocumentMoniker": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\GoogleAuth\\IGoogleAuthService.cs",
+              "RelativeDocumentMoniker": "signinwithgoogle\\GoogleAuth\\IGoogleAuthService.cs",
+              "ToolTip": "D:\\maui\\signinwithgoogle\\signinwithgoogle\\GoogleAuth\\IGoogleAuthService.cs",
+              "RelativeToolTip": "signinwithgoogle\\GoogleAuth\\IGoogleAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:46:33.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
